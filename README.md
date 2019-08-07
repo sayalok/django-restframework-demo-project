@@ -1,4 +1,4 @@
-# django-restframework-demo-project
+# Create A api For Blog Using Django Rest frameWork
 
 To Run This Project Follow below instructions.
 
